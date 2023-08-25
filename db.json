@@ -1,0 +1,22 @@
+{
+    "quotes":[
+        {
+            "name":"peaceful quote",
+            "author":"James",
+            "description":"All is well",
+            "Id": 1
+        },
+        {
+            "name":"sad quote",
+            "author":"Jane",
+            "description":"Everything ends",
+            "Id": 1
+        },
+        {
+            "name":"happy quote",
+            "author":"John",
+            "description":"Don't worry",
+            "Id": 3
+        }
+    ]
+}
